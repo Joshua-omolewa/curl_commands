@@ -7,7 +7,7 @@ curl is powered by libcurl, a portable client-side URL transfer library. You can
 * Debugging
 * Error logging
 
-[Curl basic commands link](https://phoenixnap.com/kb/curl-command#:~:text=curl%20(short%20for%20%22Client%20URL,client%2Dside%20URL%20transfer%20library.)
+[Curl basic commands link](https://phoenixnap.com/kb/curl-command#:~:text=curl%20(short%20for%20%22Client%20URL,client%2Dside%20URL%20transfer%20library)
 
 ## CURL Common Options
 
