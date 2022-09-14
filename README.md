@@ -1,3 +1,14 @@
+## Curl (short for "Client URL") is a command line tool that enables data transfer over various network protocols. It communicates with a web or application server by specifying a relevant URL and the data that need to be sent or received.
+
+curl is powered by libcurl, a portable client-side URL transfer library. You can use it directly on the command line or include it in a script. The most common use cases for curl are:
+
+* Downloading files from the internet
+* Endpoint testing
+* Debugging
+* Error logging
+
+
+
 ## CURL Common Options
 
 `-#, --progress-bar`
